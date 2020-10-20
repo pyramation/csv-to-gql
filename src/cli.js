@@ -9,7 +9,7 @@ import {
   makePoly,
   makeJS,
   parseVariables
-} from '../src/utils';
+} from './utils';
 
 const argv = process.argv.slice(2);
 

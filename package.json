@@ -1,6 +1,6 @@
 {
   "name": "csv-to-gql",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Create GraphQL queries and mutations from CSV files",
   "author": "Dan Lynch <pyramation@gmail.com>",
   "homepage": "https://github.com/pyramation/csv-to-gql#readme",
