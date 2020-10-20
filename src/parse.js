@@ -1,4 +1,3 @@
-import { rejects } from 'assert';
 import csv from 'csv-parser';
 import { createReadStream } from 'fs';
 
